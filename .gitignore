@@ -19,3 +19,4 @@ reels/*/audio/line_*.wav
 reels/*/audio/mix.wav
 reels/*/audio/vo_kokoro.wav
 kit/node_modules
+reels/*/audio/log.txt
